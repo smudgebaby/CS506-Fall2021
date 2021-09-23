@@ -1,3 +1,3 @@
 def draw_restaurant():
-    print("restaurant not found")
+    print("Found Chinese and Japanese restaurants")
     return
